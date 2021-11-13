@@ -26,4 +26,6 @@ Aqui se registrarán todos los comandos necesarios para el control de versiones 
     se modifica automaticamente el archivo (ALELUYA POR ESO :-) )
 8.- Pero para la fortuna del programasdor existe un comando que agrega al a´rea de trabajo y realiza commit al mismo tiempor. Este comando es el siguiente:
     git commit am "comentario"
+9.- Si queremos modificar la descripción de un archivo hacemos uso del siguiente comando:
+    git commit --amend: este comando nos abrirá el editor para realizar la respectiva modificación-
 '''
